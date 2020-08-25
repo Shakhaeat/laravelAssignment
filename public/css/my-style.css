@@ -1,0 +1,34 @@
+.btn-float {
+    float: right;
+}
+
+.del-font {
+    font-size: 25px;
+}
+
+.display-3 {
+    float: left;
+    display: inline;
+    font-size: 2.5rem;
+}
+
+.doc-icon a {
+    padding: 3px;
+    font-size: 25px;
+}
+
+.form-group.required.row .col-form-label:after{
+   color: red;
+   content: "*";
+/*   position: absolute;
+   margin-left: -15px;*/
+}
+
+.delete-icon{
+    border: 0;
+    padding: 3px;
+    font-size: 20px;
+}
+.delete-icon:hover{
+    color:black;
+}
